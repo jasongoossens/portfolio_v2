@@ -1,0 +1,84 @@
+{
+    "jobs": [
+      {
+        "startdate": "2020-09",
+        "enddate": "present",
+        "company": "Peleman Industries NV",
+        "position": "Back-end developer",
+        "description": "I maintain a Symfony webshop, and the back-end of our WordPress/WooCommerce webshops.  We also provide a WooCommerce webshop-as-a-service for our printpartners.  Since our ERP contains all product information, and most Peleman products can be personalised, extensive WooCommerce customization was required to provide customers with an enjoyable eCommerce experience tailored to Peleman's product range.",
+        "technologies": "PHP, JavaScript, HTML, CSS, MySQL, Symfony, WordPress, WooCommerce, Git"
+      },
+      {
+        "startdate": "2019-11",
+        "enddate": "2019-05",
+        "company": "AML BVBA",
+        "position": "Sotware developer",
+        "description": "My focus was creating CRUD apps for our internal staff to use, and refactoring existing code.",
+        "technologies": "PHP, JavaScript, MySQL, HTML, CSS"
+      },
+      {
+        "startdate": "2019-04",
+        "enddate": "2018-02",
+        "company": "Tactics BVBA",
+        "position": "PHP developer",
+        "description": "I was part of the team that maintained the existing Symfony childcare application, and participated in creating an application for guardianship administration for the city of Antwerp, in C# and Angular.",
+        "technologies": "PHP, MySQL, Symfony, C#, HTML, CSS"
+      },
+      {
+        "startdate": "2013-12",
+        "enddate": "2016-08",
+        "company": "Lab Support NV",
+        "position": "Accountant",
+        "description": "At Lab Support I was responsible for the complete accounting for our Antwerp office, and provided backup to our subsidiary, Valesta Belgium. This included the monthly reconciliation of accounts, reporting & variance analysis of the weekly revenue figures, and supporting the Finance Manager with the monthly, quarterly and year end closing."
+      },
+      {
+        "startdate": "2013-09",
+        "enddate": "2013-03",
+        "company": "Seatrade Reefer Chartering NV",
+        "position": "Accountant agent desk",
+        "description": "I was responsible for the accounting of our worldwide network of agents and maintained and imported data files relating to the agent accounting and ensure these are correct and up to date."
+      },
+      {
+        "startdate": "2011-10",
+        "enddate": "2010-06",
+        "company": "Kerry Logistics BVBA",
+        "position": "Intercompany accountant",
+        "description": "My main tasks were the much-needed cleanup & ongoing reconciliation of the Accounts Payable & Receivable for intercompany & agent branches and the monthly reporting to our headquarters in Hong Kong."
+      },
+      {
+        "startdate": "2010-06",
+        "enddate": "2007-03",
+        "company": "TE-Group NV",
+        "position": "Accountant",
+        "description": "Together with the senior accountant, I performed general accounting duties for various entities (TE Group, All-Rest and a bungalow park), and compiled and filed various declarations (Intrastat, Recupel, Bebat, Fost-Plus).  I was also responsible for the administrative registration of the product returns for TE Group.  In addition to this, I was also the first-line IT contact for my colleagues, and the contact for our external IT support."
+      },
+      {
+        "startdate": "2007-03",
+        "enddate": "2007-02",
+        "company": "Göbel & Partner BVBA",
+        "position": "Accountant",
+        "description": "I was responsible for the general accounting of our Belgian firm, the monthly closing, and reporting to our British headquarters."
+      },
+      {
+        "startdate": "2007-02",
+        "enddate": "2003-03",
+        "company": "SGS Coordination Center NV",
+        "position": "Accounts Payable clerk",
+        "description": "As a member of the Accounts Payable team, my duties included encoding, booking and settling of incoming invoices.  I also maintained the prepayment accounts and assisted my team leader with maintaining various AP accounts, and participated in the monthly closings.  In addition to this, I also booked the bank statements for a number of smaller SGS entities."
+      },
+      {
+        "startdate": "2001-04",
+        "enddate": "2002-12",
+        "company": "Fidea NV",
+        "position": "Administrative clerk",
+        "description": "My duties included the processing of incoming and outgoing mail and other various administrative tasks."
+      },
+      {
+        "startdate": "1999-11",
+        "enddate": "2001-03",
+        "company": "Compumark NV",
+        "position": "Administrative clerk",
+        "description": "I was responsible for dispatching trademark reports to customers."
+      }
+    ]
+  }

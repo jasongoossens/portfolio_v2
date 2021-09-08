@@ -1,0 +1,92 @@
+{
+  "dev_languages": {
+    "title": "Languages",
+    "items": [
+      {
+        "name": "PHP",
+        "icon": "/images/icons/html.png",
+        "alt": "PHP"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/images/icons/javascript.png",
+        "alt": "JavaScript"
+      },
+      {
+        "name": "HTML",
+        "icon": "/images/icons/html.png",
+        "alt": "HTML5 - IT's a language!  A markup language, that is..."
+      },
+      {
+        "name": "CSS",
+        "icon": "/images/icons/css.png",
+        "alt": "CSS3 - IT's a language!  A style-sheet language, that is..."
+      }
+    ]
+  },
+  "other_web_technologies": {
+    "title": "Other web related skills",
+    "items": [
+      {
+        "name": "Symfony",
+        "icon": "/images/icons/symfony.png",
+        "alt": "Symfony 5"
+      },
+      {
+        "name": "Vue.js",
+        "icon": "/images/icons/vue.png",
+        "alt": "Vue"
+      },
+      {
+        "name": "MySQL",
+        "icon": "/images/icons/mysql.png",
+        "alt": "MySQL"
+      },
+      {
+        "name": "Composer",
+        "icon": "/images/icons/composer.png",
+        "alt": "Composer"
+      },
+      {
+        "name": "jQuery",
+        "icon": "/images/icons/jquery.png",
+        "alt": "jQuery"
+      },
+      {
+        "name": "SASS",
+        "icon": "/images/icons/sass.png",
+        "alt": "SASS"
+      },
+      {
+        "name": "WordPress",
+        "icon": "/images/icons/wordpress.png",
+        "alt": "WordPress"
+      },
+      {
+        "name": "WooCommerce",
+        "icon": "/images/icons/woocommerce.png",
+        "alt": "WooCommerce"
+      }
+    ]
+  },
+  "other": {
+    "title": "Other",
+    "items": [
+      {
+        "name": "Git",
+        "icon": "/images/icons/git.png",
+        "alt": "Git"
+      },
+      {
+        "name": "NginX",
+        "icon": "/images/icons/nginx.png",
+        "alt": "NginX"
+      },
+      {
+        "name": "Raspberry Pi",
+        "icon": "/images/icons/raspberrypi.png",
+        "alt": "Raspberry Pi"
+      }
+    ]
+  }
+}

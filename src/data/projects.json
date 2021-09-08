@@ -1,0 +1,169 @@
+{
+    "description": "My projects are hosted on a few platforms, Firebase and Heroko being some of them, and a Raspberry Pi with Apache being the other.<br>Feel free to tinker with them to test the functionality.<br>Instead of doing typical tutorial projects, I'd rather make things I'd want to use myself. Therefore the projects will probably be centered around cooking, the stock market, and working out.",
+    "items": [
+        {
+            "name": "Portfolio V2",
+            "is_online": true,
+            "image": "",
+            "description": "My current personal portfolio sit, made with Vue.js.  To avoid having to maintain a database, all data comes from JSON files (myTwitter reads and writes to JSON as well).  I use Github Actions for easy deployment.",
+            "technologies": [
+                {
+                    "name": "HTML",
+                    "icon": "/images/icons/html.png",
+                    "alt": "HTML5"
+                },
+                {
+                    "name": "CSS",
+                    "icon": "/images/icons/javascript.png",
+                    "alt": "CSS3"
+                },
+                {
+                    "name": "JavaScript",
+                    "icon": "/images/icons/javascript.png",
+                    "alt": "JavaScript"
+                },
+                {
+                    "name": "Vue",
+                    "icon": "/images/icons/vue.png",
+                    "alt": "Vue.js"
+                },
+                {
+                    "name": "Git",
+                    "icon": "/images/icons/git.png",
+                    "alt": "Git"
+                }
+            ],
+            "link": "",
+            "repo": "Github",
+            "repo_link": ""
+        },
+        {
+            "name": "Portfolio V1",
+            "is_online": false,
+            "image": "/images/portfolio.jpg",
+            "description": "My first personal portfolio site. Git push requests automatically updated the Firebase hosted site via CI/CD using Github Actions.",
+            "technologies": [
+                {
+                    "name": "HTML",
+                    "icon": "/images/icons/html.png",
+                    "alt": "HTML5 - IT's a language!  A markup language, that is..."
+                },
+                {
+                    "name": "CSS",
+                    "icon": "/images/icons/javascript.png",
+                    "alt": "CSS3 - IT's a language!  A style-sheet language, that is..."
+                },
+                {
+                    "name": "JavaScript",
+                    "icon": "/images/icons/javascript.png",
+                    "alt": "JavaScript"
+                },
+                {
+                    "name": "Git",
+                    "icon": "/images/icons/git.png",
+                    "alt": "Git"
+                }
+            ],
+            "link": "",
+            "repo": "Github",
+            "repo_link": "https://github.com/jasongoossens/portfolio"
+        },
+        {
+            "name": "ScanMyCard",
+            "is_online": true,
+            "image": "/images/scanmycard.jpg",
+            "description": "A basic React app that uses the Antwerp Opendata API and Leaflet to display A-card scanning locations (there's no database behind it, so changes are shown, but not persisted - refreshing your browser resets everything).",
+            "technologies": [
+                {
+                    "name": "HTML",
+                    "icon": "/images/icons/html.png",
+                    "alt": "HTML5 - IT's a language!  A markup language, that is..."
+                },
+                {
+                    "name": "CSS",
+                    "icon": "/images/icons/javascript.png",
+                    "alt": "CSS3 - IT's a language!  A style-sheet language, that is..."
+                },
+                {
+                    "name": "JavaScript",
+                    "icon": "/images/icons/javascript.png",
+                    "alt": "JavaScript"
+                },
+                {
+                    "name": "React",
+                    "icon": "/images/icons/react.png",
+                    "alt": "React"
+                },
+                {
+                    "name": "C#",
+                    "icon": "/images/icons/c-sharp.png",
+                    "alt": "C#"
+                },
+                {
+                    "name": "MySQL",
+                    "icon": "/images/icons/mysql.png",
+                    "alt": "MySQL"
+                }
+            ],
+            "link": "https://scanmycard.jasongoossens.be/",
+            "repo": "Bitbucket",
+            "repo_link": "https://bitbucket.org/jason80/pro5jasongoossens/src/master/mmt-react/"
+        },
+        {
+            "name": "Stockly",
+            "is_online": true,
+            "image": "",
+            "description": "WIP - this project consists of 2 Symfony 5 applications: one that, via commands and cronjobs, uses API's and web scraping to get daily information for the broad market as well as specific stocks, and one that displays this information and has user registration, an admin backend, the possibility to implement custom indicator to generate signals, etc.  Again, I use Github Actions for easy deployment.",
+            "technologies": [
+                {
+                    "name": "PHP",
+                    "icon": "/images/icons/php.png",
+                    "alt": "PHP"
+                },
+                {
+                    "name": "HTML",
+                    "icon": "/images/icons/html.png",
+                    "alt": "HTML5 - IT's a language!  A markup language, that is..."
+                },
+                {
+                    "name": "CSS",
+                    "icon": "/images/icons/css.png",
+                    "alt": "CSS3 - IT's a language!  A style-sheet language, that is..."
+                },
+                {
+                    "name": "JavaScript",
+                    "icon": "/images/icons/javascript.png",
+                    "alt": "JavaScript"
+                },
+                {
+                    "name": "Symfony",
+                    "icon": "/images/icons/symfony.png",
+                    "alt": "Symfony 5"
+                },
+                {
+                    "name": "MySQL",
+                    "icon": "/images/icons/mysql.png",
+                    "alt": "MySQL"
+                },
+                {
+                    "name": "Composer",
+                    "icon": "/images/icons/composer.png",
+                    "alt": "Composer"
+                },
+                {
+                    "name": "SASS",
+                    "icon": "/images/icons/sass.png",
+                    "alt": "SASS"
+                },
+                {
+                    "name": "Git",
+                    "icon": "/images/icons/git.png",
+                    "alt": "Git"
+                }
+            ],
+            "link": "",
+            "repo": "Github",
+            "repo_link": ""
+        }
+    ]
+}

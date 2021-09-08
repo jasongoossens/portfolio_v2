@@ -1,0 +1,12 @@
+{
+  "twits": [
+    {
+      "text": "Init: my first twit, right in the JSON!",
+      "datetime": "2021-09-07 13:06:00"
+    },
+    {
+      "text": "My second twit, also right in the JSON!",
+      "datetime": "2021-09-07 13:06:30"
+    }
+  ]
+}

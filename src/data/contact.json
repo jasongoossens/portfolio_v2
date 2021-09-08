@@ -1,0 +1,19 @@
+{
+  "contact": [
+    {
+      "name": "Email",
+      "link": "mailto:jason.goossens@gmail.com?subject=Mail%20from%20jasongoossens.be",
+      "image": "/images/icons/email.png"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/jason-goossens/",
+      "image": "/images/icons/linkedin.png"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com/jasongoossens",
+      "image": "/images/icons/github.png"
+    }
+  ]
+}
